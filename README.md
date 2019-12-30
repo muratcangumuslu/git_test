@@ -1,0 +1,1 @@
+This is MuratCG’s first git project!
